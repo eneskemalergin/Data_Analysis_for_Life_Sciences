@@ -6,7 +6,7 @@
 # Part 1
 
 # Sets working directory.
-setwd("C:/Users/Pc-41/Desktop/Statistics and R for Life Sciences/Week 1")
+setwd("C:/Users/Pc-41/Desktop/Biomedical Data Science/Statistics and R for Life Sciences/Week 1")
 
 # Reads the csv file and assign the value to data variable.
 data <- read.csv("msleep_ggplot2.csv")
